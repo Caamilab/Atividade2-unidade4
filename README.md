@@ -90,3 +90,4 @@ Este programa foi desenvolvido para controlar três LEDs (verde, azul e vermelho
 4. Insira um comando (ex.: `1` para ligar o LED verde) e observe seu efeito no hardware.
 
 ## Demonstração
+https://youtu.be/gF1QTLroytw
